@@ -1,3 +1,2 @@
-# What you will learn from this repo!
-
-This is a git repo learning and course
+# GIT AND GITHUB COURSES
+This is course is dedicated for the developers who wants to succeed or recall the knowledges
