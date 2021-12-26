@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# What you will learn from this repo!
 # GIT AND GITHUB COURSES
 This is course is dedicated for the developers who wants to succeed or recall the knowledges
 This is a git repo learning and course
@@ -11,3 +9,5 @@ This is a git repo learning and course
 ![git](./images/git6.png)
 ![git](./images/git7.png)
 ![git](./images/git9.png)
+
+# Writing Atomic Commits
