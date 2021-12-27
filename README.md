@@ -27,13 +27,11 @@ This is a git repo learning and course
 ![git](./images/git15.png)
 ![git](./images/git16.png)
 # Git Ignore
-![git](./images/git17.png)
-![git](./images/git17.png)
-![git](./images/git17.png)
-![git](./images/git17.png)
-![git](./images/git17.png)
-![git](./images/git17.png)
-![git](./images/git17.png)
-![git](./images/git17.png)
-![git](./images/git17.png)
-![git](./images/git17.png)
+![git](./images/git18.png)
+
+![git](./images/git19.png)
+
+![git](./images/git20.png)
+![git](./images/git21.png)
+![git](./images/git22.png)
+![git](./images/git23.png)
