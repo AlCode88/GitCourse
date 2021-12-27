@@ -1,5 +1,5 @@
-line modified
-line conflict
-line 1
-line 2
-line 3
+modified modified
+modified conflict
+modified 1
+modified 2
+modified 3
