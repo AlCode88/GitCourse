@@ -37,3 +37,9 @@ This is a git repo learning and course
 ![git](./images/git22.png)
 # Git Branch Delete and Rename
 ![git](./images/git23.png)
+# Git Merging
+![git](./images/git24.png)
+![git](./images/git25.png)
+![git](./images/git26.png)
+# Git Conflict
+![git](./images/git27.png)
