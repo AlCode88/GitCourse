@@ -36,4 +36,4 @@ This is a git repo learning and course
 ![git](./images/git21.png)
 ![git](./images/git22.png)
 # Git Branch Delete and Rename
-![git](./images/git123.png)
+![git](./images/git23.png)
