@@ -1,3 +1,4 @@
 Line 1 added
 Line 2 added and modified
 line 3 added 
+we will add more lines and make conflict
