@@ -51,3 +51,14 @@ This is a git repo learning and course
 ![git](./images/git30.png)
 # Git Diff --staged --cached
 ![git](./images/git31.png)
+# Git Stash
+![git](./images/git32.png)
+![git](./images/git33.png)
+![git](./images/git34.png)
+![git](./images/git35.png)
+# Git Stash Apply
+![git](./images/git36.png)
+# Git Stash Multiple Times
+![git](./images/git37.png)
+# Git Stash Clear
+![git](./images/git38.png)
