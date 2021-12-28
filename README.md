@@ -43,3 +43,11 @@ This is a git repo learning and course
 ![git](./images/git26.png)
 # Git Conflict
 ![git](./images/git27.png)
+# Git Diff
+![git](./images/git28.png)
+# Git Diff Commits
+![git](./images/git29.png)
+# Git Diff HEAD
+![git](./images/git30.png)
+# Git Diff --staged --cached
+![git](./images/git31.png)
