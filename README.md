@@ -62,3 +62,18 @@ This is a git repo learning and course
 ![git](./images/git37.png)
 # Git Stash Clear
 ![git](./images/git38.png)
+# Git Checkout
+![git](./images/git39.png)
+![git](./images/git40.png)
+![git](./images/git41.png)
+![git](./images/git42.png)
+![git](./images/git43.png)
+# Git Restore
+![git](./images/git44.png)
+![git](./images/git45.png)
+# Git Reset
+![git](./images/git46.png)
+# Git Revert
+![git](./images/git47.png)
+# Git Revert vs Reset
+![git](./images/git48.png)
