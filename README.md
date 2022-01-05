@@ -97,3 +97,9 @@ This is a git repo learning and course
 ![git](./images/git65.png)
 ![git](./images/git66.png)
 ![git](./images/git67.png)
+![git](./images/git68.png)
+![git](./images/git69.png)
+![git](./images/git70.png)
+![git](./images/git71.png)
+![git](./images/git72.png)
+
