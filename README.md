@@ -101,5 +101,6 @@ This is a git repo learning and course
 ![git](./images/git69.png)
 ![git](./images/git70.png)
 ![git](./images/git71.png)
+# Configuring the Branch Protection Rules
 ![git](./images/git72.png)
 
