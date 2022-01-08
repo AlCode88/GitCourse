@@ -1,4 +1,3 @@
-# GIT AND GITHUB COURSE
 # GIT AND GITHUB COURSES
 This is course is dedicated for the developers who wants to succeed or recall the knowledges
 This is a git repo learning and course
@@ -77,21 +76,27 @@ This is a git repo learning and course
 ![git](./images/git47.png)
 # Git Revert vs Reset
 ![git](./images/git48.png)
-
+# GitHub
+### Introduction to GitHub
 ![git](./images/git49.png)
 ![git](./images/git50.png)
 ![git](./images/git51.png)
 ![git](./images/git52.png)
+# Git Push command 
 ![git](./images/git53.png)
 ![git](./images/git54.png)
+# Fetching and Pulling from Remote Repo
 ![git](./images/git55.png)
 ![git](./images/git56.png)
 ![git](./images/git57.png)
+# Git Fetch
 ![git](./images/git58.png)
 ![git](./images/git59.png)
+# Git Pull
 ![git](./images/git60.png)
 ![git](./images/git61.png)
 ![git](./images/git62.png)
+# GitHub Collaborations
 ![git](./images/git63.png)
 ![git](./images/git64.png)
 ![git](./images/git65.png)
@@ -103,11 +108,12 @@ This is a git repo learning and course
 ![git](./images/git71.png)
 # Configuring the Branch Protection Rules
 ![git](./images/git72.png)
-
+# Fork and Clone GitHub
 ![git](./images/git73.png)
 ![git](./images/git74.png)
 ![git](./images/git75.png)
 ![git](./images/git76.png)
+# Git Rebasing
 ![git](./images/git77.png)
 ![git](./images/git78.png)
 ![git](./images/git79.png)
