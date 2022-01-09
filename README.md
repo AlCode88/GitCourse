@@ -119,5 +119,15 @@ This is a git repo learning and course
 ![git](./images/git79.png)
 ![git](./images/git80.png)
 ![git](./images/git81.png)
-
-# Git Tags
+![git](./images/git82.png)
+![git](./images/git83.png)
+![git](./images/git84.png)
+![git](./images/git85.png)
+# Git Tagging
+![git](./images/git86.png)
+![git](./images/git87.png)
+![git](./images/git88.png)
+![git](./images/git89.png)
+![git](./images/git90.png)
+![git](./images/git91.png)
+![git](./images/git92.png)
