@@ -132,3 +132,8 @@ This is a git repo learning and course
 ![git](./images/git91.png)
 ![git](./images/git92.png)
 # Git Reflog Command
+![git](./images/git93.png)
+![git](./images/git94.png)
+![git](./images/git95.png)
+![git](./images/git96.png)
+![git](./images/git97.png)
